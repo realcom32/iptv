@@ -141,7 +141,23 @@ http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/200/index.m3u8
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/201/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6386/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/5004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/16153/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19308/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Фан FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19403/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Horror FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20050/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20158/index.m3u8
 
+#EXTINF:0 tvg-rec="0",Liberty Наука FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19305/index.m3u8
 #EXTINF:0 tvg-rec="7",Космо HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11065/index.m3u8
 #EXTINF:0 tvg-rec="3",Авто Плюс HD
@@ -150,6 +166,8 @@ http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6369/index.m3u8
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/908/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами Туриста HD 
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2104/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15191/index.m3u8
 #EXTINF:0 tvg-rec="3",Discovery Science HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6001/index.m3u8
 #EXTINF:0 tvg-rec="0",Бокс ТВ HD
@@ -173,8 +191,6 @@ http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2045/index.m3u8
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19226/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Hits HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19227/index.m3u8
-#EXTINF:0 tvg-rec="0",Новое радио FHD
-http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14162/index.m3u8
 #EXTINF:0 tvg-rec="3",Жара HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2129/index.m3u8
 #EXTINF:0 tvg-rec="7",Europa Plus TV
@@ -185,6 +201,12 @@ http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14166/index.m3u8
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15512/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Музыкальный Новый год!
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/16140/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH MIX 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/17025/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Music 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19282/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Relax 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19283/index.m3u8
 
 #EXTINF:0 tvg-rec="0",VF Ералаш
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14163/index.m3u8
@@ -200,3 +222,13 @@ http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/240/index.m3u8
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14151/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Kids HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2001/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kids 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/17023/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19304/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19306/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Kids FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20047/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Мультики FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20048/index.m3u8
