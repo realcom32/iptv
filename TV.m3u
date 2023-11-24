@@ -1,4 +1,241 @@
+#EXTM3U
+#EXTINF:0,Первый HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/204/index.m3u8
+#EXTINF:0,Россия 1 HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/205/index.m3u8
+#EXTINF:0,Матч ТВ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/212/index.m3u8
+#EXTINF:0,НТВ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/213/index.m3u8
+#EXTINF:0,Пятый Канал
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/112/index.m3u8
+#EXTINF:0,Россия-Культура
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/505/index.m3u8
+#EXTINF:0,Россия-24
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/507/index.m3u8
+#EXTINF:0,Карусель
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/156/index.m3u8
+#EXTINF:0,ОТР
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/705/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19222/index.m3u8
+#EXTINF:0,Рен ТВ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2024/index.m3u8
+#EXTINF:0,СПАС
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/983/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6303/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15116/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/5033/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/5031/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15115/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/18037/index.m3u8
+#EXTINF:0,ТНТ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/237/index.m3u8
+#EXTINF:0 tvg-rec="0",МУЗ-ТВ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19228/index.m3u8
+#EXTINF:0,360° HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2065/index.m3u8
+#EXTINF:0 tvg-rec="0",360 Новости HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/18038/index.m3u8
+#EXTINF:0 tvg-rec="7",Че
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/513/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4 HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6370/index.m3u8
+#EXTINF:0,Ю ТВ
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/534/index.m3u8
+#EXTINF:0 tvg-rec="0",Дождь HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20083/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/220/index.m3u8
 
+#EXTINF:0 tvg-rec="7",Кинопремьера HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/224/index.m3u8
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/904/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2097/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедийное HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/912/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужское Кино HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10045/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7250/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7244/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2056/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7247/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6299/index.m3u8
 #EXTINF:0 tvg-rec="0",Премиальное HD
-#EXTGRP:кино
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10017/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7222/index.m3u8
+#EXTINF:0 tvg-rec="3",Trash HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6396/index.m3u8
+#EXTINF:0,VIP Premiere
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/202/index.m3u8
+#EXTINF:0,VIP Comedy
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/200/index.m3u8
+#EXTINF:0,VIP Megahit
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/201/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15522/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10003/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10004/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Fantasy
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10005/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Melodrama
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10006/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10008/index.m3u8
+#EXTINF:0 tvg-rec="7",VF VHS MIX
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы VHS
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10010/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Премьера
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10051/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Комедия
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10055/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Катастрофы
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10080/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Marvel
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10081/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10087/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10052/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11012/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15106/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Premium 
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20112/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/202/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/200/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/201/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6386/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/5004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/16153/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19308/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Фан FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19403/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Horror FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20050/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20158/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Наука FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19305/index.m3u8
+#EXTINF:0 tvg-rec="7",Космо HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11065/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто Плюс HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6369/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый космический HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/908/index.m3u8
+#EXTINF:0 tvg-rec="3",Глазами Туриста HD 
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2104/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15191/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6001/index.m3u8
+#EXTINF:0 tvg-rec="0",Бокс ТВ HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19245/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19244/index.m3u8
+#EXTINF:0 tvg-rec="7",Дикая рыбалка HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рыбалка
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/16138/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Стройка
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/16139/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV Россия HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14014/index.m3u8
+#EXTINF:0 tvg-rec="7",Fashion One HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2044/index.m3u8
+#EXTINF:0 tvg-rec="7",Fashion TV HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2045/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Bridge Русский Хит HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19226/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Hits HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19227/index.m3u8
+#EXTINF:0 tvg-rec="3",Жара HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2129/index.m3u8
+#EXTINF:0 tvg-rec="7",Europa Plus TV
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/115/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ Music FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14166/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Музыка
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/15512/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Музыкальный Новый год!
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/16140/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH MIX 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/17025/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Music 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19282/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Relax 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19283/index.m3u8
+
+#EXTINF:0 tvg-rec="0",VF Ералаш
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14163/index.m3u8
+#EXTINF:0 tvg-rec="7",Ералаш HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/11058/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10086/index.m3u8
+#EXTINF:0 tvg-rec="0",Детское кино HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/18073/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/240/index.m3u8
+#EXTINF:0 tvg-rec="0",Советские мультфильмы
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/14151/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Kids HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/2001/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kids 4K
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/17023/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19304/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/19306/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Kids FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20047/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Мультики FHD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/20048/index.m3u8
