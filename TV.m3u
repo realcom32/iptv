@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0,Первый HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/204/index.m3u8
 #EXTINF:0,Россия 1 HD
@@ -81,6 +82,8 @@ http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7247/index.m3u8
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6299/index.m3u8
 #EXTINF:0 tvg-rec="0",Премиальное HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/10017/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/7222/index.m3u8
 #EXTINF:0 tvg-rec="3",Trash HD
 http://cb0ad37d.rossteleccom.net/iptv/U3PP8N6FDXGHGN/6396/index.m3u8
 #EXTINF:0,VIP Premiere
